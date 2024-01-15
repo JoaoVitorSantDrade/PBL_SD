@@ -1,0 +1,9 @@
+[submodule "Sistemas_digitais-Comunicacao-serial-"]
+	path = Sistemas_digitais-Comunicacao-serial-
+	url = https://github.com/JoaoVitorSantDrade/Sistemas_digitais-Comunicacao-serial-
+[submodule "Sistemas_digitais"]
+	path = Sistemas_digitais
+	url = https://github.com/ALrEcompUefs/Sistemas_digitais
+[submodule "MonitoramentoAmbiental"]
+	path = MonitoramentoAmbiental
+	url = https://github.com/JoaoVitorSantDrade/MonitoramentoAmbiental
